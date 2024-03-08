@@ -36,7 +36,9 @@ Per la sezione 1 vengono attribuiti 10 punti
 ```
 Rispondere in modo esaustivo alle domande citando le fonti.
 
-Le risposte devono essere pensate per un utente che non padroneggia l'argomento e che non ha conoscenze informatiche particolarmente avanzate. Spiegare eventuali inglesismi e dove necessario utilizzare metafore ed esempi.
+Le risposte devono essere pensate per un utente che non padroneggia l'argomento e
+che non ha conoscenze informatiche particolarmente avanzate.
+Spiegare eventuali inglesismi e dove necessario utilizzare metafore ed esempi.
 ```
 
 1. Che cos'è la crittografia e qual è il suo scopo principale?
